@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //hi
     float x1, x2, y1, y2;
     public boolean onTouchEvent(MotionEvent touchEvent){
         switch(touchEvent.getAction()){
